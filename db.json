@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "OPTOCOUPLE FOR AC line-to-logic ",
+        "PN": "MID400S-ND",
+        "MF": "ONSEMI"
+      },
+      "MID": "MID20387",
+      "MD": "The MID400S-ND is the DigiKey Part Number for the MID400S, a surface-mount (SMD) optically isolated AC line monitor optocoupler manufactured by onsemi (formerly Fairchild Semiconductor).\n\nKey Details & Specifications\n\n• Function: AC line-to-logic interface device used for AC line monitoring, line-down detection, and time-delay isolation switching.\n• Package: 8-pin Surface Mount Device (SMD) / Gull-wing (MDIP style).\n• Input: Back-to-back GaAs LED diodes that accept and convert alternating current (AC) into light energy.\n• Output: High-gain detector circuit driving an open-collector transistor logic output (goes low when AC is detected, high otherwise).\n• Isolation Voltage: 2,500 VACRMS (1 minute, UL1577).\n• Status: Obsolete and no longer manufactured by onsemi.\n\nPinout (8-Pin DIP/SMD)\n\n• Pin 1: AC Live\n• Pin 2 & 4: No Connection (NC)\n• Pin 3: AC Neutral\n• Pin 5: Ground\n• Pin 6: \\(V_{OUT}\\) (Logic Output, open collector)\n• Pin 7: Auxiliary / Time-delay capacitor connection\n• Pin 8: \\(V_{CC}\\) (Supply voltage, max 7V)",
+      "MT": "Electronic Material",
+      "MQNT": 15,
+      "MCost": 240.0,
+      "MQATG": "#CLASS_0",
+      "ML": "120",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20387%2Fmain%2FMID400S-ND.PDF",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20387/main/IMG_20261109_154752.jpg"
+      ]
+    }
+  ]
+}
